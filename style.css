@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    padding: 30px;
+    margin: 20px;
+}
+
+button{
+    width: 10vw;
+    min-height: 5vh;
+}
+.error {
+    color: red;
+}
+.success {
+    color: green;
+}
+input{
+    width: 30vw;
+}
